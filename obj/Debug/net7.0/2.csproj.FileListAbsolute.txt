@@ -1,0 +1,15 @@
+D:\geekbrains\Алгоритмы\Practice\2\obj\Debug\net7.0\2.csproj.AssemblyReference.cache
+D:\geekbrains\Алгоритмы\Practice\2\obj\Debug\net7.0\2.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekbrains\Алгоритмы\Practice\2\obj\Debug\net7.0\2.AssemblyInfoInputs.cache
+D:\geekbrains\Алгоритмы\Practice\2\obj\Debug\net7.0\2.AssemblyInfo.cs
+D:\geekbrains\Алгоритмы\Practice\2\obj\Debug\net7.0\2.csproj.CoreCompileInputs.cache
+D:\geekbrains\Алгоритмы\Practice\2\bin\Debug\net7.0\2.exe
+D:\geekbrains\Алгоритмы\Practice\2\bin\Debug\net7.0\2.deps.json
+D:\geekbrains\Алгоритмы\Practice\2\bin\Debug\net7.0\2.runtimeconfig.json
+D:\geekbrains\Алгоритмы\Practice\2\bin\Debug\net7.0\2.dll
+D:\geekbrains\Алгоритмы\Practice\2\bin\Debug\net7.0\2.pdb
+D:\geekbrains\Алгоритмы\Practice\2\obj\Debug\net7.0\2.dll
+D:\geekbrains\Алгоритмы\Practice\2\obj\Debug\net7.0\refint\2.dll
+D:\geekbrains\Алгоритмы\Practice\2\obj\Debug\net7.0\2.pdb
+D:\geekbrains\Алгоритмы\Practice\2\obj\Debug\net7.0\2.genruntimeconfig.cache
+D:\geekbrains\Алгоритмы\Practice\2\obj\Debug\net7.0\ref\2.dll
